@@ -1,4 +1,4 @@
-/* PIC 10C Homework 1, dijkstra.h
+/* 
     Purpose: implement dijkstra's algorithm for weighted directed graphs
     Author: Anh Tran
     Date: 10/26/22
